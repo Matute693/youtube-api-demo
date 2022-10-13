@@ -1,4 +1,4 @@
-# Youtube App demo
+# Youtube App
 
 This project was generated with Angular version 13.1.3 suitable for opening it on mobile phones, tablets or desktop computers, use Bootstrap as a library for defining the interface design.
 

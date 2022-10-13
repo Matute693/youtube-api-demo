@@ -1,8 +1,8 @@
 <h1 class="h5 mx-5 pt-5 text-white">Welcome to the cities channel</h1>
 <hr>
     
-<div class="card-columns row center animate__animated animate__fadeIn">
-    <div class="card text-white bg-dark col-sm-12 col-md-4 col-xl-3  mb-4 p-3" *ngFor="let video of videos" >
+<div class="row animate__animated animate__fadeIn">
+    <div class="card text-white bg-dark col-sm-12 col-md-4 col-xl-3  mb-4" *ngFor="let video of videos" >
         <img [src]="video.thumbnails.high.url" class="card-img-top" alt="...">
         <div class="card-body">
           <h5 class="card-title">{{ video.title }}</h5>

@@ -2,3 +2,9 @@
     column-count: 4;
 }
 
+@media (max-width:480px) {
+    .row {
+        width: 100%;
+    }
+}
+

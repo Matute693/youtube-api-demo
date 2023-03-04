@@ -12,4 +12,4 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## Url demo
 
-https://youtuve-api-demo.netlify.app/
+https://youtube-api-demo.netlify.app/
